@@ -7,3 +7,5 @@
 // Add the multiply method
 
 // Add integer division
+
+// Add division
