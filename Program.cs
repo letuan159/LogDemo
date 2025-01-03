@@ -13,3 +13,5 @@
 // Add square root
 
 // Remove hello world
+
+// Instantiate the calculator
