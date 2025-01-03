@@ -15,3 +15,5 @@
 // Remove hello world
 
 // Instantiate the calculator
+
+// Call the add function
