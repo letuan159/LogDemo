@@ -5,8 +5,9 @@
 
 // Add the multiply method
 
+// Cherry new
 
-// Add divisaaa
+// Add divisaaaaaaasss
 
 // Add square root
 
