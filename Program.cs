@@ -1,4 +1,3 @@
-// Create calculator class
 
 // Add the add method
 
@@ -19,3 +18,5 @@
 // Call the add function
 
 // Exercise the program
+
+// Create calculator class
