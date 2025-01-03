@@ -17,3 +17,5 @@
 // Instantiate the calculator
 
 // Call the add function
+
+// Exercise the program
